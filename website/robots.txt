@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /opening-soon
+Sitemap: https://asifmalikmd.com/sitemap.xml
