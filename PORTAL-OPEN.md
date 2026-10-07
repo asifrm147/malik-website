@@ -2,7 +2,7 @@
 
 While the portal (app.asifmalikmd.com) isn't ready, the website's **Book**,
 **Send a review request**, **Open a case** and **Sign in** buttons go to
-`/book`, `/request` and `/sign-in`, which show `opening-soon.html`
+`/book`, `/request` and `/sign-in`, which show the `opening-soon` page
 (email asif.malik@psychiatrygroup.com, no medical details by email).
 
 When the portal is live and taking real payments, replace the `"rewrites"`

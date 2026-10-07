@@ -5,19 +5,19 @@
   "rewrites": [
     {
       "source": "/book",
-      "destination": "/opening-soon.html"
+      "destination": "/opening-soon"
     },
     {
       "source": "/request",
-      "destination": "/opening-soon.html"
+      "destination": "/opening-soon"
     },
     {
       "source": "/sign-in",
-      "destination": "/opening-soon.html"
+      "destination": "/opening-soon"
     },
     {
       "source": "/login",
-      "destination": "/opening-soon.html"
+      "destination": "/opening-soon"
     }
   ],
   "headers": [
